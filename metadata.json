@@ -1,0 +1,8 @@
+{
+  "name": "Golden Samui Real Estate",
+  "description": "Luxury Koh Samui Real Estate — Short-Term Rockstar Villas, Long-Term Island Leases & Freehold/Leasehold Property Sales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
